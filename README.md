@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rebeca Rodrigues</h1>
-<h3 align="center">A full stack web developer student.</h3>
+<h3 align="center">A java developer.</h3>
 
  - 🌱 I’m currently learning **Java; Spring Boot Framework; Docker; Mongodb; JavaScript; HTML5; CSS3; Angular 3**
 - 📫 How to reach me **rebecarodriguesn@gmail.com**
